@@ -1,13 +1,22 @@
 package edu.css.mgoodson1.cis3334_unit10asgn_vogelladb_orm_mgoodson1;
 
-/**
- * Created by mgoodson on 3/31/2018.
- */
+
 import android.content.Context;
 
 import android.arch.persistence.room.Database;
 import android.arch.persistence.room.Room;
 import android.arch.persistence.room.RoomDatabase;
+
+/**
+ * Created by vogella on 06.09.17.
+ *
+ * @author uthor Matt Goodson
+ * @version 2018-03-31
+ *
+ * This class creates the database AppDatabase that has 2 tables User and Trophy
+ *
+ *
+ */
 
 @Database(entities = {User.class,  Trophy.class
 }, version = 16, exportSchema = false)

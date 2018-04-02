@@ -1,9 +1,5 @@
 package edu.css.mgoodson1.cis3334_unit10asgn_vogelladb_orm_mgoodson1;
 
-//import android.support.v7.app.AppCompatActivity;
-//import android.os.Bundle;
-
-//public class MainActivity extends AppCompatActivity {
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -12,6 +8,19 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.List;
+
+
+/**
+ * Created by vogella on 06.09.17.
+ *
+ * @author uthor Matt Goodson
+ * @version 2018-03-31
+ *
+ * This excercie demonstrates the usage of root to perist data.
+ * It also demonstrates the usage of foreign constraints to model relationships
+ *
+ */
+
 
 public class MainActivity extends Activity {
 
