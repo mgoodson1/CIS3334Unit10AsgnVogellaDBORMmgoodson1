@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CIS3334-Unit10Asgn-VogellaDB-ORM-mgoodson1</string>
+    <string name="btnAddTrophy">Add Trophy</string>
+    <string name="btnIncreaseSkill">Increase Skill</string>
+</resources>
